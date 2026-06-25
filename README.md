@@ -1,4 +1,9 @@
-Ini adalah sistem yang dibuat untuk memenuhi Tugas RTM Mata Kuliah Algoritma dan Pemrograman.
+Greetings.
+
+Adanya repositori ini hanya sebagai dokumentasi dalam pemenuhan projek akhir mata kuliah Algoritma dan Pemrograman.
+
+>Adapun deskripsi singkat terkait sistem ini adalah: "PENERAPAN ALGORITMA QUICK SORT, BREADTH-FIRST SEARCH (BFS), DAN BINARY SEARCH DALAM SISTEM MANAJEMEN DAN NAVIGASI PARKIR TERPADU DI FASILKOM UNIVERSITAS JEMBER"
+>Ini merupakan sistem berbasis konsol sebagai solusi untuk mengatasi masalah parkir di Fasilkom, Unej menggunakan algoritma Quick Sort, BFS, dan Binary Search yang dikemas dalam modul C++.
 
 Bagaimana cara menggunakannya?
 1. Fork repositori ini
